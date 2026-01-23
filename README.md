@@ -75,7 +75,7 @@ Hi! I am a passionate mobile app developer based in Egypt. I thrive on creating 
    <summary>:zap: GitHub Stats</summary>
 
 <p align="center">
-<a href="#"><img alt="Ziad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zoz15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="#"><img alt="Ziad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iziadehap&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 </details>
 
@@ -83,6 +83,6 @@ Hi! I am a passionate mobile app developer based in Egypt. I thrive on creating 
    <summary>:zap: Most Used Languages</summary> 
 
 <p align="center">
-  <a href="#"><img alt="Ziad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoz15&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="#"><img alt="Ziad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iziadehap&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 </details>
